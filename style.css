@@ -406,3 +406,26 @@ h4 {
   color: #000;
   font-size: 1.2rem;
 }
+
+.career_goals {
+   border: lime solid 1px;
+  border-radius: 10px;
+  display: block;
+  width: 100%;
+  background-color: rgb(255, 0, 0);
+  margin-bottom: 30px;
+  height: 100px;
+  padding-top: 40px;
+  font-weight: inherit;
+  font-size: 1.2rem;
+  text-align: center;
+  padding: 10px;
+  text-transform: uppercase;
+  margin-top: 30px;
+}
+
+.goal_stars {
+  font-size: 1.3rem;
+  color: yellow;
+  margin-left: -30px;
+}
